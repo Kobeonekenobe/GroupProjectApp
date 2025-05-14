@@ -2,7 +2,7 @@ import streamlit as st
 from metrics import *
 import pandas as pd
 import altair as alt
-
+#just want to practice sending through a commit - Kobe
 st.set_page_config(page_title="Player Dashboard", page_icon="👤", layout="wide")
 
 # Gather players
